@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### Welcome to my Github! 👋
 
-💻 I am a Deep Learning Research Scientist.     
-🔭 My current Reseach is focused on Federated Learning Optimization (believe me, we have by far the state of the art 😉 ).      
-🌱 I’m currently learning about Project Management.
-😄 Pronouns: He/Him       
-⚡ Fun fact: Catanist!
+- 💻 I am a Deep Learning Research Scientist.     
+- 🔭 My current Reseach is focused on Federated Learning Optimization (believe me, we have by far the state of the art 😉 ).      
+- 🌱 I’m currently learning about Project Management.
+- 😄 Pronouns: He/Him       
+- ⚡ Fun fact: Catanist!
 
 
 📫 Connect with me on: 
