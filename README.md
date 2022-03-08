@@ -1,4 +1,17 @@
 ### Hi there 👋
+### Welcome to my Github! 👋
+
+💻 I am a Deep Learning Research Scientist.     
+🔭 My current Reseach is focused on Federated Learning Optimization (believe me, we have by far the state of the art 😉 ).      
+🌱 I’m currently learning about Project Management.
+😄 Pronouns: He/Him       
+⚡ Fun fact: Catanist!
+
+
+📫 Connect with me on: 
+* [LinkedIn](https://www.linkedin.com/in/farshid-varno/)
+* [Twitter](https://twitter.com/fhvarno)
+
 
 <!--
 **fvarno/fvarno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
