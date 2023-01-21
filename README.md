@@ -2,10 +2,11 @@
 ### Welcome to my Github! 👋
 
 - 💻 I am a Machine Learning Research Scientist.     
-- 🔭 My current Reseach is focused on Federated Learning, Transfer Learning, Domain Generalization and alike.      
+- 🔭 My current research centers on Federated Learning, Transfer Learning, and Domain Generalization.
 - 🌱 I’m currently learning about Project Management.
-- 😄 Pronouns: He/Him
+- 🤵 Pronouns: He/Him
 - ⚡ Fun fact: Catanist!
+- 📏 Example project: [FedSim](https://fedsim.varnio.com/en/latest/)
 
 
 📫 Connect with me on: 
