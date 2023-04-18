@@ -10,7 +10,7 @@ I am a Machine Learning Scientist and Engineer with a strong Digital Hardware De
 and I have:
 ✓ 4+ years experience as Research Scientist (industrial)
 ✓ 1+ years experience as Data Scientist and Research Assistant (academic & industrial)
-✓ 1+ years experience as FPGA Engineer/RTL Designer (industrial)
+✓ 2+ years experience as FPGA Engineer/RTL Designer (industrial)
 
 Other facts:
 * 🌱 I’m currently improving my Project Management skills.
